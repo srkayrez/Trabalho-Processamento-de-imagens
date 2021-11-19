@@ -232,17 +232,28 @@ O SVM usa o pré-processamento padrão quando nenhum outro pré-processador é f
   Em seguida foi gerado o Calibration Plot que mostra a correspondência entre as previsões de probabilidade dos classificadores e as probabilidades reais da classe. Após isso geramos as predições que mostra as previsões dos modelos sobre os dados.
 
 ### Referencias
+
 GANDHI, Rohith . Support Vector Machine — Introduction to Machine Learning Algorithms: SVM model from scratch. towardsdatascience. 2018. Disponível em: https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47?gi=10fa8891ff31. Acesso em: 19 out. 2021.
+
 JOSÉ, Italo. NN (K-Nearest Neighbors): Como funciona?. medium. 2018. Disponível em: https://medium.com/brasil-ai/knn-k-nearest-neighbors-1-e140c82e9c4e. Acesso em: 15 out. 2021.
 K-NEAREST Neighbor(KNN) Algorithm for Machine Learning. javatpoint. Disponível em: https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning . Acesso em: 18 out. 2021.
+
 MATRIZ de confusão. wikipedia. Disponível em: https://pt.wikipedia.org/wiki/Matriz_de_confus%C3%A3o. Acesso em: 19 out. 2021.
+
 MÁQUINA de vetores de suporte. Wikipedia. Disponível em: https://pt.wikipedia.org/wiki/M%C3%A1quina_de_vetores_de_suporte. Acesso em: 19 out. 2021.
+
 NEURAL network. wikipedia. Disponível em: https://en.wikipedia.org/wiki/Neural_network. Acesso em: 18 out. 2021.
+
 ORANGEDATAMINING. Documentation. Disponível em: https://orangedatamining.com/docs/. Acesso em: 22 out. 2021.
+
 PRECISION and recall. wikipedia. Disponível em: https://en.wikipedia.org/wiki/Precision_and_recall. Acesso em: 20 out. 2021.
+
 REDE neural artificial. Rede neural artificial. Disponível em: https://pt.wikipedia.org/wiki/Rede_neural_artificial. Acesso em: 19 out. 2021.
+
 STANKEVIX, Gabriel . Analise exploratória de Dados: Uma aplicação do pensamento estatístico em Python. medium. 2020. Disponível em: https://medium.com/@gabriel.stankevix/analise-explorat%C3%B3ria-de-dados-732007ddbfaf. Acesso em: 20 out. 2021.
+
 VAZ, Arthur Lamblet. Neural Network — Deep Learning — Parte 4: Introdução Teórica. medium. 2019. Disponível em: https://medium.com/data-hackers/neural-network-deep-learning-parte-4-introdu%C3%A7%C3%A3o-te%C3%B3rica-db45ebd77029. Acesso em: 18 out. 2021.
+
 WICKLIN, Rick . Calibration plots in SAS. sas. 2018. Disponível em: https://blogs.sas.com/content/iml/2018/05/14/calibration-plots-in-sas.html. Acesso em: 20 out. 2021.
 
 ### Nota: (aguardando)
