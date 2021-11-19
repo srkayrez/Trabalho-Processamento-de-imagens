@@ -3,7 +3,8 @@ IDENTIFICAR ESPÉCIES DE PLANTAS A PARTIR DE SUAS FOLHAS
 
 ## Atividades práticas supervisionadas – APS VI – Trabalho apresentado como exigência para a avaliação do curso de Ciências da Computação da Universidade Paulista sob orientação de professores do semestre.
 
-### GABRIEL EDUARDO JOIOSO
+### Integrantes
+GABRIEL EDUARDO JOIOSO
 JOÃO VICTOR CAIRES
 PAULO ADAM DA SILVA SANTANA
 WELLINGTON JUNIOR CHELES
