@@ -241,3 +241,11 @@ STANKEVIX, Gabriel . Analise exploratória de Dados: Uma aplicação do pensamen
 VAZ, Arthur Lamblet. Neural Network — Deep Learning — Parte 4: Introdução Teórica. medium. 2019. Disponível em: https://medium.com/data-hackers/neural-network-deep-learning-parte-4-introdu%C3%A7%C3%A3o-te%C3%B3rica-db45ebd77029. Acesso em: 18 out. 2021.
 WICKLIN, Rick . Calibration plots in SAS. sas. 2018. Disponível em: https://blogs.sas.com/content/iml/2018/05/14/calibration-plots-in-sas.html. Acesso em: 20 out. 2021.
 
+### Nota: (aguardando)
+### Comentário do orientador: (aguardando)
+
+<p align="center"><i>“Não importa o que aconteça, continue a nadar”</i> <br>
+(WALTERS; GRAHAM, Procurando Nemo, 2003).</p>
+
+<p align="center">Atividade concluída em 18/11/2021.</p>
+
