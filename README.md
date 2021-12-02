@@ -1,5 +1,4 @@
-# DESENVOLVIMENTO DE UM SISTEMA BIOMÉTRICO CAPAZ DE
-IDENTIFICAR ESPÉCIES DE PLANTAS A PARTIR DE SUAS FOLHAS
+# DESENVOLVIMENTO DE UM SISTEMA BIOMÉTRICO CAPAZ DE IDENTIFICAR ESPÉCIES DE PLANTAS A PARTIR DE SUAS FOLHAS
 
 ## Atividades práticas supervisionadas – APS VI – Trabalho apresentado como exigência para a avaliação do curso de Ciências da Computação da Universidade Paulista sob orientação de professores do semestre.
 
