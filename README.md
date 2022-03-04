@@ -255,8 +255,8 @@ VAZ, Arthur Lamblet. Neural Network — Deep Learning — Parte 4: Introdução 
 
 WICKLIN, Rick . Calibration plots in SAS. sas. 2018. Disponível em: https://blogs.sas.com/content/iml/2018/05/14/calibration-plots-in-sas.html. Acesso em: 20 out. 2021.
 
-### Nota: (aguardando)
-### Comentário do orientador: (aguardando)
+### Nota: 8.0
+### Comentário do orientador: <i>Os alunos apresentaram um trabalho com fundamentação teórica, relataram a metodologia adotada, avaliaram os métodos. Porém, sugere-se como melhoria maior objetividade com o texto.<\i>
 
 <p align="center"><i>“Não importa o que aconteça, continue a nadar”</i> <br>
 (WALTERS; GRAHAM, Procurando Nemo, 2003).</p>
